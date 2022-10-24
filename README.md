@@ -55,4 +55,4 @@ When looking through the data, there were significant amount of males compare to
 
 ## LINK TO TABLEAU STORY
 
-!["Tableau Story"](https://public.tableau.com/app/profile/adam6646/viz/NYC_Citibike_Challenge_Story_16666288895620/GenderCitiBikeStory)
+["Tableau Story"](https://public.tableau.com/app/profile/adam6646/viz/NYC_Citibike_Challenge_Story_16666288895620/GenderCitiBikeStory)
