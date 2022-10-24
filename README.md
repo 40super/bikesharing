@@ -16,3 +16,5 @@ This pie graph shown gives information on the gender gender split based on the n
 ### Top Starting Location
 
 !["Starting Location"](images/Gender%20CitiBike%20Story-3.png)
+
+This graph here shows the starting location for all the citibike data but it shows it as circle markers where the darker and larger the marker, the more amount of trips started at that location.
