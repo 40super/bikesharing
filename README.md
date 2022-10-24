@@ -10,3 +10,9 @@ Looking through the citibike data, there were some interesting results found whi
 
 ### Number of Rides based on Gender
 !["Gender Pie"](images/Gender%20CitiBike%20Story-2.png)
+
+This pie graph shown gives information on the gender gender split based on the number of rides. One thing that stands out is that majority of rides were done by male while the female gender and the unknown gender are less than half combined.
+
+### Top Starting Location
+
+!["Starting Location"](images/Gender%20CitiBike%20Story-3.png)
